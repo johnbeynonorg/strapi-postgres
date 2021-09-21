@@ -1,7 +1,7 @@
 module.exports = {
   settings: {
     logger: {
-      level: "error",
+      level: "info",
       "requests": true
     },
   },
